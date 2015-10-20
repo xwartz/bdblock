@@ -1600,7 +1600,7 @@ window.$ === undefined && (window.$ = Zepto)
         }
     };
 
-    // @todo 
+    // @todo 针对百度页面异步渲染
     setTimeout(function () {
         App.removeRight();
         App.removeLeft();

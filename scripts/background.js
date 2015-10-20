@@ -1,5 +1,3 @@
-
-
 ;(function(){
 
     // https://developer.chrome.com/extensions/tabs#event-onUpdated
@@ -8,6 +6,7 @@
         if(changeInfo.status == 'complete'){
 
             if(/baidu.com/i.test(tab.url)){
+                
                 // https://developer.chrome.com/extensions/tabs#method-executeScript
                 chrome.tabs.executeScript(tabId,
                     {
