@@ -1,5 +1,7 @@
 # bdblock
 
+![fuck baidu](/img/icon_128.png)
+
 
 [![Build Status](https://travis-ci.org/xwartz/bdblock.svg)](https://travis-ci.org/xwartz/bdblock)
 
