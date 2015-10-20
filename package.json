@@ -1,0 +1,29 @@
+{
+  "name": "bdblock",
+  "version": "0.0.1",
+  "description": "百度搜索推广广告屏蔽",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xwartz/bdblock.git"
+  },
+  "keywords": [
+    "baidu",
+    "dbblock"
+  ],
+  "author": "xwartz <stddup@gmail.com> (https://github.com/xwartz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwartz/bdblock/issues"
+  },
+  "homepage": "https://github.com/xwartz/bdblock",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-plumber": "~1.0.1"
+  }
+}
