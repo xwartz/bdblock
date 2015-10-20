@@ -1,0 +1,14 @@
+{
+  "ext_name": {
+    "message": "bdblock"
+  },
+  "ext_homepage_url": {
+    "message": "https://github.com/xwartz/bdblock"
+  },
+  "description": {
+    "message": "屏蔽百度搜索推广"
+  },
+  "language": {
+    "message": "zh_CN"
+  }
+}

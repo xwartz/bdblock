@@ -1,0 +1,14 @@
+{
+  "ext_name": {
+    "message": "bdblock"
+  },
+  "ext_homepage_url": {
+    "message": "https://github.com/xwartz/bdblock"
+  },
+  "description": {
+    "message": "An efficient blocker for baidu search"
+  },
+  "language": {
+    "message": "en"
+  }
+}
